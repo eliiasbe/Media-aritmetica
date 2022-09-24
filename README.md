@@ -1,0 +1,2 @@
+# Media-aritmetica
+atividade 
